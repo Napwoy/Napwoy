@@ -1,154 +1,161 @@
-<h1 align="center">Hi 👋, I'm Nabil</h1>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">NABIL ADITIA PUTRA</h1>
 <h3 align="center">IT Enthusiast | Developer | Designer | Data Analyst</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Building+with+logic.;Designing+with+empathy.;Exploring+data+with+curiosity.;Always+learning." />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Napwoy&color=00ffcc&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Consistency-00ffcc?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Long%20Term-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vibe-Cyber%20Dark-0f0f0f?style=flat-square" />
 </p>
 
 ---
 
 <pre align="center">
- ███╗   ██╗ █████╗ ██████╗ ██╗██╗     
- ████╗  ██║██╔══██╗██╔══██╗██║██║     
- ██╔██╗ ██║███████║██████╔╝██║██║     
- ██║╚██╗██║██╔══██║██╔══██╗██║██║     
- ██║ ╚████║██║  ██║██████╔╝██║███████╗
- ╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝
+███╗   ██╗ █████╗ ██████╗ ██╗██╗     
+████╗  ██║██╔══██╗██╔══██╗██║██║     
+██╔██╗ ██║███████║██████╔╝██║██║     
+██║╚██╗██║██╔══██║██╔══██╗██║██║     
+██║ ╚████║██║  ██║██████╔╝██║███████╗
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝
+
+███╗   ██╗ █████╗ ██████╗ ██╗██╗     
+████╗  ██║██╔══██╗██╔══██╗██║██║     
+██╔██╗ ██║███████║██████╔╝██║██║     
+██║╚██╗██║██╔══██║██╔══██╗██║██║     
+██║ ╚████║██║  ██║██████╔╝██║███████╗
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝╚══════╝
 </pre>
 
 <p align="center"><i>Build slowly. Think deeply. Stay curious.</i></p>
 
 ---
 
-### 👨‍💻 About Me
-Saya IT enthusiast yang suka ngulik teknologi dari sisi logic, visual, dan data.  
-Lagi fokus bangun fundamental yang kuat lewat proyek kecil, trial-error, dan konsistensi.
+## 👨‍💻 About Me
 
-Saya nggak ngejar terlihat jago — saya ngejar **bertumbuh terus**.
+Saya membangun skill secara bertahap — bukan instan.  
+Lebih tertarik memahami *kenapa sesuatu bekerja*, bukan sekadar bisa memakainya.
+
+Fokus saya:
+- Logic & structure
+- Visual clarity
+- Insight dari data
+
+Tidak terburu-buru. Tapi tidak berhenti juga.
 
 ---
 
-### 🛠 Tech Stack
-- HTML & CSS (Semantic, Flexbox, Responsive)
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML (Semantic)
+- CSS (Flexbox, Responsive)
 - Basic JavaScript
-- Git & GitHub
-- UI Design (Figma)
-- Data Analysis (basic)
+
+**Design**
+- Figma
+- Layout thinking
+- Visual hierarchy
+
+**Data**
+- Basic analysis
+- Pattern recognition
+- Insight reading
 
 ---
 
-## 🎮 Text-Based Mini Game — *Choose Your Path*
-> Tidak ada skor.  
-> Tidak ada salah.  
-> Cuma pilihan.
+## 📊 GitHub Analytics
 
-Klik salah satu jalur di bawah 👇
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Napwoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Napwoy&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Napwoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+---
+
+# 🎮 Choose Your Path
 
 <details>
 <summary><strong>👨‍💻 Developer</strong></summary>
 
-Kamu memilih jalur Developer.
-
-Fokus:
-- Logic
-- Problem solving
-- Struktur kode
-
-Realita:
-Sering pusing sendiri, jarang dipuji.
+Debug jadi bagian hidup.  
+Kadang frustrasi, tapi selalu belajar.
 
 Ending:
-> Kamu membangun sistem yang dipakai banyak orang, walau namamu jarang disebut.
+> Kamu membangun sesuatu yang bertahan lama.
 
 </details>
 
 <details>
 <summary><strong>🎨 Designer</strong></summary>
 
-Kamu memilih jalur Designer.
-
-Fokus:
-- Visual
-- Experience
-- Detail kecil
-
-Realita:
-Sering dianggap “cuma tampilan”.
+Kamu peduli detail kecil.  
+Spasi, warna, flow.
 
 Ending:
-> Kamu bikin teknologi terasa manusiawi.
+> Kamu membuat teknologi terasa lebih manusia.
 
 </details>
 
 <details>
 <summary><strong>📊 Data Analyst</strong></summary>
 
-Kamu memilih jalur Data Analyst.
-
-Fokus:
-- Angka
-- Pola
-- Insight
-
-Realita:
-Kerja di balik layar.
+Kamu membaca pola.  
+Angka berbicara lebih jujur dari opini.
 
 Ending:
-> Keputusan besar dibuat dari analisismu.
+> Insight-mu memengaruhi keputusan besar.
 
 </details>
 
 <details>
-<summary><strong>🧠 Hybrid Path</strong></summary>
+<summary><strong>🧠 Hybrid</strong></summary>
 
-Kamu memilih jalur Hybrid.
-
-Fokus:
-- Adaptasi
-- Belajar lebih lama
-- Banyak peran
-
-Realita:
-Capek, tapi fleksibel.
+Belajar lebih banyak.  
+Capek lebih sering.
 
 Ending:
-> Kamu tidak mudah digantikan.
+> Kamu jadi fleksibel dan sulit digantikan.
 
 </details>
 
 ---
 
-## 🔒 Secret Ending (tidak semua orang buka)
+## 🔐 Hidden Layer
+
 <details>
-<summary><strong>⚠️ Do not open if you’re not curious</strong></summary>
+<summary><strong>Only open if you’re curious</strong></summary>
 
-Kamu bukan cuma pembaca.  
-Kamu explorer.
+Orang yang terus belajar,  
+biasanya melampaui yang merasa sudah tahu.
 
-Ending rahasia:
-> Orang yang terus bertanya dan mencoba  
-> biasanya sampai lebih jauh daripada yang cuma merasa sudah tahu.
-
-Welcome to the long game.
+Tidak cepat.  
+Tapi jauh.
 
 </details>
 
 ---
 
-### 📌 Motto
-> Pelan bukan berarti berhenti.  
-> Konsisten lebih penting daripada terlihat hebat.
+## 🌐 Connect
 
----
-
-### 🔗 Connect With Me
-- 🌐 Portfolio: https://nvitech.meukarya.my.id/
 - 💼 LinkedIn: https://id.linkedin.com/in/nabil-aditia-putra-01513b355
+- 🌐 Portfolio: https://nvitech.meukarya.my.id/
 - 📸 Instagram: https://www.instagram.com/nabildtya
 - 💻 GitHub: https://github.com/Napwoy
 
 ---
 
 <p align="center">
-  <i>Thanks for reading. Not everyone scrolls this far.</i>
+  <i>Thanks for stopping by.</i>
 </p>
